@@ -1,0 +1,9 @@
+---
+#Data for jenkins-slave :- 
+
+jenkins::slave::masterurl:
+ - 'http://jenkins-master1.domain.com:8080'
+jenkins::slave::ui_user:
+ - 'adminuser'
+jenkins::slave::ui_pass:
+ - 'adminpass'
